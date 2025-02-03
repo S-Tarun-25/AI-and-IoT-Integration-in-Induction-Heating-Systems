@@ -20,4 +20,4 @@ This project demonstrates the potential of **AI and IoT** to revolutionize indus
 - Optimizing energy consumption and improving product quality.
 - Providing a foundation for future smart manufacturing solutions.
 
-By integrating AI and IoT into induction heating systems, this project paves the way for smarter, more efficient, and reliable industrial operations. 🚀
+By integrating AI and IoT into induction heating systems, this project paves the way for smarter, more efficient, and reliable industrial operations. 
